@@ -1,7 +1,9 @@
 fastapi==0.103.1
 uvicorn==0.23.2
 pytest==7.4.2
-pytest-asyncio==0.21.1
 httpx==0.25.0
 redis==5.0.0
 PyYAML==6.0.1
+aws-cdk-lib==2.97.0
+constructs==10.2.70
+cdk-ecr-deployment==2.5.30
